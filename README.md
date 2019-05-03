@@ -1,7 +1,7 @@
 # [Fluorescence Microscopy Denoising (FMD) dataset](https://drive.google.com/drive/folders/1aygMzSDdoq63IqSk-ly8cMq0_owup8UM) 
 
-A Poisson-Gaussian Denoising Dataset with Real Fluorescence Microscopy
-Images, [arXiv.1812.10366](https://arxiv.org/abs/1812.10366).
+Code for CVPR 2019 paper "A Poisson-Gaussian Denoising Dataset with Real Fluorescence Microscopy
+Images", [arXiv.1812.10366](https://arxiv.org/abs/1812.10366).
 
 ```latex
 @inproceedings{zhang2018poisson,
