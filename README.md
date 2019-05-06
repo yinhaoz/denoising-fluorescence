@@ -71,9 +71,13 @@ python test_example.py
 ```
 
 ### Traditional denosing methods
+Download the FMD dataset into the default directory `denoising/dataset/`.
 ```
 cd matlab
 ```
+In the benchmark files (e.g., `benchmark_VST_NLM.m`), assign different folder names (e.g., `Confocal_BPAE_B`) to the variable `data_name` to benchmark different data groups. Execute the benchmark files to start benchmarking.
+
+For more details regarding the traditional denoising methods, please refer to the following references.
 
 #### Noise Estimation
 - A. Foi, M. Trimeche, V. Katkovnik, and K. Egiazarian. "Practical Poissonian-Gaussian noise modeling and fitting for single-image raw-data". IEEE Transactions on Image Processing, 17(10):1737–1754, 2008.
